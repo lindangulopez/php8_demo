@@ -1,2 +1,2 @@
 # php8_demo
-Demp: php8 mySQL Herouku App
+Demp: php8 mySQL Heroku App
